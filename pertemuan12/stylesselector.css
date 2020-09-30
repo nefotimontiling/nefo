@@ -1,0 +1,46 @@
+/*kalau tidak ada space itu arti p di dalam error sedang kalau tidak ada space p di luar error
+/*p{
+    color: red;
+}
+
+p.error{
+    color: seagreen;
+}
+p.gagal.feedback{
+    color: springgreen;
+    border: 5px solid rebeccapurple;
+}*/
+#top-container{
+    background-color: rgb(5, 117, 5);
+}
+#bottom-container{
+    background-color: lightseagreen;
+}
+div .error{
+    color: red;
+}
+a[href] {
+    font-size: 30px;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: limegreen;
+}
+a[href*="youtube"] {
+      background-color: lightblue;  
+}
+a[href$=".ac.id"]{
+    background-color: red;
+}
+
+h2:hover {
+    color: orange;
+    background-color: darkmagenta;
+}
+
+p::selection{
+    background-color: red;
+    color: yellow;
+}
+a::before{
+    content: "link-";
+}
