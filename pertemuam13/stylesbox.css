@@ -1,0 +1,17 @@
+img {
+    display: block;
+    background-color: lightblue;
+    padding: 20px;
+    border: 10px solid red;
+    margin: 0px;
+     
+}
+.smile {
+    margin: 0px
+}
+.grinning {
+    margin: 0px 180px;
+}
+.love {
+    margin: 0px 360px;
+} 
