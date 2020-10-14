@@ -1,0 +1,16 @@
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 2rem;
+    text-align: center;
+}
+
+h1 {
+    font-family: "Brush Script MT",cursive;
+    font-size: 5,625rem;
+    width: 50%;
+    margin: 0 auto;
+}
+
+p {
+    font-family: 'Dancing Script', cursive;
+}
