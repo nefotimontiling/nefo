@@ -1,0 +1,16 @@
+h1 {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 50px;
+}
+p.a {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+}
+p.b {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1em;
+}
+p.c {
+    font-family: 'Piazzolla', serif;
+    font-size: 1rem;
+}
