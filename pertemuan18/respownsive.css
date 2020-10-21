@@ -1,0 +1,25 @@
+h1 {
+    font-size: 5rem;
+}
+
+p {
+    font-size: 2rem;
+    letter-spacing: 3px;
+}
+
+
+@media screen and (max-width:900px) {
+    h1 {
+        font-size: 3rem;
+    }
+
+    p {
+        font-size: 1rem;
+    }
+}
+
+@media screen and (max-width:400px) {
+    img {
+        display: block;
+    }
+}
