@@ -86,7 +86,7 @@ console.log(
 let badan1 = 17.0;
 let tinggi = 27.0;
 let BMI = (tinggi * tinggi);
-let hasil = (BMI / badan1);
+let hasil = ( BMI / badan1);
 
 let tinggi1 = prompt("masukan tinggi badan anda :");
 let badan2 = prompt("masukan berat badan anda :");
